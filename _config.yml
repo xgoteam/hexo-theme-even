@@ -75,8 +75,10 @@ google_analytics: UA-51259806-3
 # Google Verification
 google_verification: 
 
+# Disqus
 disqus_shortname: cielpark
+
 # ===========================================
 # Version
 # ===========================================
-version: 2.4.x
+version: 2.5.0
