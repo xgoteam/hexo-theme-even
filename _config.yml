@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2019
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -48,13 +48,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: beijiu572@gmail.com
-  stack-overflow: https://stackoverflow.com/users/1841463/kevin-guo
-  twitter: https://twitter.com/cielpy5
+  email: 
+  stack-overflow: 
+  twitter: 
   facebook:
   linkedin:
   google:
-  github: https://github.com/cielpy
+  github: 
   weibo:
   zhihu:
   pocket:
@@ -70,13 +70,13 @@ baidu_analytics:
 baidu_verification: 
 
 # Google Analytics
-google_analytics: UA-51259806-3
+google_analytics: 
 
 # Google Verification
 google_verification: 
 
 # Disqus
-disqus_shortname: cielpark
+disqus_shortname: 
 
 # ===========================================
 # Version
